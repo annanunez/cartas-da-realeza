@@ -33,10 +33,7 @@ Criar uma aplicação web que permita visualizar cartas de maneira interativa, e
 * Compatível com navegadores modernos.
 * Hospedado online, podendo ser publicado no **GitHub Pages**.
 
-### 🚀 Acesso
 
-Acesse o projeto em:
-**[🔗 Clique aqui para visualizar](https://seuusuario.github.io/cartas-da-realeza/)**
 
 ### 📂 Estrutura do Repositório
 
